@@ -1,4 +1,3 @@
-@@ -1,49 +0,0 @@
 # Ionic-Tips-Tricks-and-Techniques
 This is the code repository for [Ionic 4: Tips, Tricks, and Techniques[Video]](Website), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
